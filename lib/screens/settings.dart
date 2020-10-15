@@ -24,7 +24,7 @@ class Settings extends StatelessWidget {
           ),
         ),
         Container(child: Center(
-          child: Text('Settings'),
+          child: Text('Developed by Marcos'),
         ),),
       ],
     );
